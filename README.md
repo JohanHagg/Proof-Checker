@@ -1,15 +1,8 @@
 # Proof-Checker
 Proof checker for proofs about concurrent programs. Solution implemented in Agda.
 
-===============
-PROOF Checker
-===============
-
-
--- CPL
-* Contains the representation of the CPL. A program is basically
-  a pointer to an entry point. The entry point refers to the main
- statement of the program.
+## CPL
+### Contains the representation of the CPL. A program is basically a pointer to an entry point. The entry point refers to the main statement of the program.
 
 -- ELTL
  * Contains a representation of the extended LTL logic.
