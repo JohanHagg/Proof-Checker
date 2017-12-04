@@ -2,10 +2,10 @@
 Proof checker for proofs about concurrent programs. Solution implemented in Agda.
 
 ## CPL
-Contains the representation of the CPL. A program is basically a pointer to an entry point. The entry point refers to the main statement of the program.
+* Contains the representation of the CPL. A program is basically a pointer to an entry point. The entry point refers to the main statement of the program.
 
 ## ELTL
-Contains a representation of the extended LTL logic.
+* Contains a representation of the extended LTL logic.
 
 ## SatRel
  * Contains all legal rules as the datatype ⊨. The type
